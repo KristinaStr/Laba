@@ -1,4 +1,4 @@
-'''
+```
 #include
 
 using namespace std;
@@ -41,4 +41,4 @@ cout<<"result: "<<k;
 
 }
 }
-'''
+```
